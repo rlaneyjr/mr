@@ -1,0 +1,2 @@
+[$HOME/.config/vcsh/repo.d/atom.v.git]
+checkout = vcsh clone git@github.com:rlaneyjr/atom.v.git atom.v
